@@ -48,6 +48,7 @@ const Home = () => {
         <button type="submit">Login</button>
       </form>
       <br />
+      <a href='https://deeplink-tan.vercel.app' target="_system">click here to open on android app</a>
       <Link to="/blogs">View Blogs (without login)</Link>
     </div>
   );
