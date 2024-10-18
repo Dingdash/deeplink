@@ -50,9 +50,9 @@ const Home = () => {
       <br />
       <a href='https://deeplink-tan.vercel.app' target="_system">click here to open on android app</a>
       <br/>
-      <a href='http://deeplink-tan.vercel.app/deep' target="_system">deep link</a>
+      <a href='http://deeplink-tan.vercel.app/deep?key=param1' target="_system">deep link</a>
       <br/>
-      <a href='https://deeplink-tan.vercel.app/deep' target="_system">deep link</a>
+      <a href='https://deeplink-tan.vercel.app/deep?key=param2' target="_system">deep link</a>
       <br/>
       <Link to="/blogs">View Blogs (without login)</Link>
     </div>
