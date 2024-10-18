@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "com.movingbytes.mb_payroll_mobile",
+            "package_name": "com.movingbytes.mb_payroll_mobile",
+            "sha256_cert_fingerprints": [
+                "B3:D6:D3:31:91:53:0E:D6:FF:8E:72:CC:28:94:32:9A:4F:03:5E:1B:6A:61:46:17:BE:60:72:BC:89:07:B6:26"
+            ]
+        }
+    }
+]
